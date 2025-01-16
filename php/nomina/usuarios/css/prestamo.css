@@ -1,0 +1,78 @@
+:root {
+	--primary-color: #c7a17a;
+	--background-color: #f9f5f0;
+	--dark-color: #151515;
+	--hover-button-color: #9b7752;
+    --button-login-color: #6DC5D1;
+    --button-login-hover: #59a2ac;
+    --button-decline-term: #e88162;
+}
+
+body {
+    background-color: #F9F5F0; /* Beige claro */
+    color: #0B0B0B; /* Negro oscuro */
+}
+
+h1 {
+    color: #0B0B0B; /* Negro oscuro */
+}
+
+.card-body {
+    background-color: #FFFFFF; /* Blanco */
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-control {
+    border: 1px solid #DDDDDD; /* Gris claro */
+}
+
+input.btn.btn-outline-primary, a.btn.btn-outline-primary {
+    background-color: var(--button-login-color); /* Azul oscuro */
+    color: #FFFFFF; /* Blanco */
+    border: none; /* Quitar borde para consistencia */
+}
+
+input.btn.btn-outline-primary:hover {
+    background-color: var(--button-login-hover); /* Un tono más oscuro para el hover */
+    color: #FFFFFF;
+}
+a.btn.btn-outline-primary:hover {
+    background-color: var(--button-login-hover); /* Un tono más oscuro para el hover */
+    color: #FFFFFF;  
+}
+.btn-danger {
+    background-color: var(--button-decline-term); /* Rojo */
+    color: #FFFFFF; /* Blanco */
+}
+
+.table-dark {
+    background-color: #2E2E2E; /* Gris oscuro */
+    color: #FFFFFF; /* Blanco */
+}
+
+.table-light {
+    background-color: #FFFFFF; /* Blanco */
+    color: #0B0B0B; /* Negro oscuro */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.thead-dark {
+    background-color: var(--hover-button-color); /* Negro más claro */
+    color: #FFFFFF; /* Blanco */
+}
+input.btn.btn-primary, a.btn.btn-primary {
+    background-color: var(--button-login-color); 
+    color: #FFFFFF; /* Blanco */
+    border: none; /* Quitar borde para consistencia */
+}
+
+input.btn.btn-primary:hover {
+    background-color: var(--button-login-hover); /* Un tono más oscuro para el hover */
+    color: #FFFFFF;
+}
+a.btn.btn-primary:hover {
+    background-color: var(--button-login-hover); /* Un tono más oscuro para el hover */
+    color: #FFFFFF;  
+}

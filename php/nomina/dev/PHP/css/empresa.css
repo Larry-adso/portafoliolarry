@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+/* Reset CSS */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Global Styles */
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #3f4fe0;
+}
+
+/* Form Styles */
+.signupFrm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form {
+    width: 400px;
+    background-color: #417fdb;
+    border-radius: 8px;
+    padding: 20px 40px;
+    box-shadow: 0 10px 25px rgba(12, 102, 182, 0.2);
+}
+
+.title {
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.inputContainer {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.input {
+    width: 100%;
+    height: 45px;
+    border: 1px solid #DADCE0;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0 20px;
+    outline: none;
+}
+
+.label {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    transform: translateY(-50%);
+    color: #DADCE0;
+    font-size: 16px;
+    pointer-events: none;
+    transition: all 0.3s ease;
+}
+
+.input:focus + .label,
+.input:not(:placeholder-shown) + .label {
+    top: 10px;
+    font-size: 14px;
+    color: black;
+}
+
+.submitBtn {
+    display: block;
+    margin: 20px auto 10px;
+    padding: 15px 30px;
+    border: none;
+    background-color: #030303;
+    color: #ffffff;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.submitBtn:hover {
+    background-color: #000000;
+}
+
+.btn {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #dc3545;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #c82333;
+}

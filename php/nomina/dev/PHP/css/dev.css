@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    margin: 0;
+    transition: margin-left 300ms cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+
+main {
+    padding: 20px;
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    background: #fffbfb;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 200;
+}
+
+.icon__menu {
+    cursor: pointer;
+    font-size: 24px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon__menu i {
+    font-size: 20px;
+}
+
+.icon__close {
+    display: none;
+}
+
+.menu__side {
+    position: fixed;
+    width: 20%;
+    height: 100%;
+    background-color:  hsl(30, 41%, 63%);
+    color: rgb(5, 5, 5);
+    transition: transform 300ms cubic-bezier(0.785, 0.135, 0.15, 0.86);
+    z-index: 1000;
+    transform: translateX(-100%);
+    overflow-y: auto;
+    border-right: 20px solid hsl(30, 25%, 48%);
+}
+
+/* Ocultar scroll para diferentes navegadores */
+.menu__side::-webkit-scrollbar {
+    display: none;
+}
+
+.menu__side {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.menu__side.menu__side_move {
+    transform: translateX(0);
+}
+
+.body_move {
+    margin-left: 0,5%;
+}
+
+.name__page {
+    padding: 20px 30px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.name__page i {
+    width: 20px;
+    margin-right: 20px;
+}
+
+.options__menu {
+    padding: 20px 30px;
+    position: absolute;
+    top: 80px;
+    width: calc(100% - 60px); /* Adjusted to account for padding */
+}
+
+.options__menu a {
+    color: #000000;
+    cursor: pointer;
+    display: block;
+    position: relative;
+    transition: color 300ms;
+}
+
+.options__menu a:hover {
+    color: #000000;
+}
+
+.options__menu .option {
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.options__menu .option i {
+    width: 20px;
+    margin-right: 20px;
+}
+
+.options__menu .option h4 {
+    font-weight: 300;
+}
+
+a.selected {
+    color: #000000;
+}
+
+.selected:before {
+    content: '';
+    width: 3px;
+    height: 80%;
+    background: #020202;
+    position: absolute;
+    top: 10%;
+    left: -30px;
+}
+
+@media screen and (max-width: 760px) {
+    .body_move {
+        margin-left: 0;
+    }
+
+    .menu__side {
+        width: 250px;
+        transform: translateX(-250px);
+    }
+
+    .menu__side.menu__side_move {
+        transform: translateX(0);
+    }
+
+    .icon__close {
+        display: block;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        font-size: 24px;
+    }
+}
+
+/* Estilos adicionales para la tabla */
+.table-responsive {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid hsl(30, 41%, 63%);
+}
+
+th {
+    background-color: hsl(30, 41%, 63%);
+    color: #000;
+}
+
+tbody tr:hover {
+    background-color: #f9f5f0;
+}
+
+/* Estilos para el contenedor del formulario */
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: rgb(199, 160, 121);
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #9b7752;
+}
+
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.pagination a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0 5px;
+    background-color: rgb(199, 160, 121);
+    color: #0b0b0b;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.pagination a:hover {
+    background-color: #9b7752;
+}

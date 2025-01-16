@@ -1,0 +1,27 @@
+
+
+1: Los registro predeterminados de las siguientes tablas no se pueden borrar 
+
+Tabla (arl) no borrar por favor
+
+Tabla (estado) no se pueden borrar
+
+Tabla  (aux_trasporte) no se pueden borrar
+
+Tabla (roles) no borrar 
+
+Tabla (tp_licencia) no se pueden borrar
+
+2: desarrollador
+
+CC= 1109000587
+
+contraseña = Larry123
+
+
+
+Para que este sistema funcione localmente deben estar todas 
+las opciones STPM activadas desde el servidor local 
+
+recomendacion descomprimir la carpeta llamada vendor 
+donde se encuentran librerias importantes para el buen funcionamiento del sistema 
