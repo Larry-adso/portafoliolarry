@@ -79,15 +79,14 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 px-5 pl-lg-0 pb-5 pb-lg-0">
-                    <img class="img-fluid w-100 rounded-circle shadow-sm" src="img/profile.jpg" alt="">
+                    <img class="img-fluid w-100 rounded-circle shadow-sm" src="img/larry.png" alt="">
                 </div>
                 <div class="col-lg-7 text-center text-lg-left">
-                    <h3 class="text-white font-weight-normal mb-3">Hola Soy</h3>
+                    <h3 class="text-white font-weight-normal mb-3">Hola! Soy</h3>
                     <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">
                         Larry Garcia</h1>
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
-                    <div class="typed-text d-none">Backend Developer, Web Designer, Web Developer, Apps Designer, Apps
-                        Developer </div>
+                    <div class="typed-text d-none">Backend Developer, Web Designer, Web Developer, Apps Designer, Apps Developer </div>
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
                         <a href="lib/cv/HDVlarrygarciamorales_573173328716.pdf" class="btn btn-outline-light mr-5 " download>Descargar CV</a>
                         <!-- <button type="button" class="btn-play" data-toggle="modal"
@@ -113,7 +112,7 @@
             <br><br><br>
             <div class="row align-items-center">
                 <div class="col-lg-5 pb-4 pb-lg-0">
-                    <img class="img-fluid rounded w-100" src="img/about.jpg" alt="">
+                    <img class="img-fluid rounded w-100" src="img/Larry2.jpg" alt="">
                 </div>
                 <div class="col-lg-7">
                     <h3 class="mb-4"> Web Developer</h3>
@@ -148,6 +147,9 @@
                         </div>
                         <div class="col-sm-6 py-2">
                             <h6>Freelance: <span class="text-secondary">Disponible</span></h6>
+                        </div>
+                        <div class="col-sm-6 py-2">
+                            <h6>GitHub: <a href="https://github.com/Larry-adso">https://github.com/Larry-adso</a></h6>
                         </div>
                     </div>
                     <!-- <a href="" class="btn btn-outline-primary mr-4">Hire Me</a>
@@ -230,6 +232,8 @@
                                 Realización de web scraping para la recopilación y análisis de datos, facilitando la
                                 toma de decisiones basadas en información en tiempo real.
                             </p>
+                            <a class="border-bottom border-primary text-decoration-none" href="lib/cv/Certificacion Laboral Larry.pdf" target="_blank" >Ver certificado</a>
+
                         </div>
                         <!-- <div class="position-relative mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
@@ -289,10 +293,10 @@
                     <div class="skill mb-4">
                         <div class="d-flex justify-content-between">
                             <h6 class="font-weight-bold">Javascript</h6>
-                            <h6 class="font-weight-bold">90%</h6>
+                            <h6 class="font-weight-bold">50%</h6>
                         </div>
                         <div class="progress">
-                            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0"
                                 aria-valuemax="100"></div>
                         </div>
                     </div>
@@ -396,7 +400,7 @@
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center">
                 <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Gallery</h1>
-                <h1 class="position-absolute text-uppercase text-primary">My Portfolio</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Mi Portafolio</h1>
             </div>
             <div class="row">
                 <div class="col-12 text-center mb-2">
@@ -404,7 +408,7 @@
                         <li class="btn btn-sm btn-outline-primary m-1 active" data-filter="*">All</li>
                         <li class="btn btn-sm btn-outline-primary m-1" data-filter=".first">Design</li>
                         <li class="btn btn-sm btn-outline-primary m-1" data-filter=".second">Development</li>
-                        <li class="btn btn-sm btn-outline-primary m-1" data-filter=".third">Marketing</li>
+                        <!-- <li class="btn btn-sm btn-outline-primary m-1" data-filter=".third">Marketing</li> -->
                     </ul>
                 </div>
             </div>
@@ -430,17 +434,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
-                    <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="img/portfolio-3.jpg" alt="">
-                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="img/portfolio-3.jpg" data-lightbox="portfolio">
-                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+
+                <!-- <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid rounded w-100" src="img/portfolio-4.jpg" alt="">
                         <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
@@ -449,18 +444,18 @@
                             </a>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="img/portfolio-5.jpg" alt="">
+                        <img class="img-fluid rounded w-100" src="img/nomina3.png" alt="">
                         <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="img/portfolio-5.jpg" data-lightbox="portfolio">
+                            <a href="php/nomina/" target="_blank">
                                 <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                             </a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                <!-- <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid rounded w-100" src="img/portfolio-6.jpg" alt="">
                         <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
@@ -469,7 +464,7 @@
                             </a>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -627,12 +622,12 @@
     <div class="container-fluid bg-primary text-white mt-5 py-5 px-sm-3 px-md-5">
         <div class="container text-center py-5">
             <div class="d-flex justify-content-center mb-4">
-                <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+                <!-- <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a> -->
+                <a class="btn btn-light btn-social mr-2" href="https://es-la.facebook.com/people/Garcia-Larry/pfbid0Db8SEYUxzLFv8KyMYn1As5WLNzAtCyY6WYBykHwBfiVPr7ZbFjU5CnhyTVCYXpRgl/"><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-light btn-social mr-2" href="https://www.linkedin.com/in/larry-garc%C3%ADa-morales-1577a4272/"><i class="fab fa-linkedin-in"></i></a>
                 <a class="btn btn-light btn-social" href="#"><i class="fab fa-instagram"></i></a>
             </div>
-            <div class="d-flex justify-content-center mb-3">
+            <!-- <div class="d-flex justify-content-center mb-3">
                 <a class="text-white" href="#">Privacy</a>
                 <span class="px-3">|</span>
                 <a class="text-white" href="#">Terms</a>
@@ -640,9 +635,10 @@
                 <a class="text-white" href="#">FAQs</a>
                 <span class="px-3">|</span>
                 <a class="text-white" href="#">Help</a>
-            </div>
+            </div> -->
+            <br>
             <p class="m-0">&copy; <a class="text-white font-weight-bold" href="#">Domain Name</a>. All Rights Reserved.
-                Designed by <a class="text-white font-weight-bold" href="https://htmlcodex.com">HTML Codex</a>
+                Designed by <a class="text-white font-weight-bold" href="#">Larry Garcia</a>
             </p>
         </div>
     </div>
