@@ -2,6 +2,9 @@
 
 $conexion = mysqli_connect("localhost", "root", "", "nomina_algj");
 /*
+
+$conexion = mysqli_connect("localhost", "u853925659_larry", "fc2^~NA!?dH3", "u853925659_nomina_algj");
+
 if ($conexion) {
     echo '
     <script>
@@ -15,4 +18,6 @@ if ($conexion) {
     </script>
         ';
 }*/
+
+
 ?>

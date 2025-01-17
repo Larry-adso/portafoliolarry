@@ -24,6 +24,10 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
+    
+    <link rel="icon" href="img/ime2.jpg" type="image/png">
+
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
@@ -39,13 +43,15 @@
             <div class="navbar-nav m-auto py-0">
                 <a href="#home" class="nav-item nav-link active">Home</a>
                 <a href="#about" class="nav-item nav-link">About</a>
-                <a href="#qualification" class="nav-item nav-link">Quality</a>
-                <a href="#skill" class="nav-item nav-link">Skill</a>
-                <a href="#service" class="nav-item nav-link">Service</a>
-                <a href="#portfolio" class="nav-item nav-link">Portfolio</a>
-                <a href="#testimonial" class="nav-item nav-link">Review</a>
+                <a href="#qualification" class="nav-item nav-link">Cualidades</a>
+                <a href="#skill" class="nav-item nav-link">Habilidades</a>
+                <a href="#service" class="nav-item nav-link">Servicios</a>
+                <a href="#portfolio" class="nav-item nav-link">Portafolio</a>
+               
+               <!-- <a href="#testimonial" class="nav-item nav-link">Review</a>
                 <a href="#blog" class="nav-item nav-link">Blog</a>
                 <a href="#contact" class="nav-item nav-link">Contact</a>
+                 -->
             </div>
             <a href="" class="btn btn-outline-primary d-none d-lg-block">Hire Me</a>
         </div>
@@ -79,14 +85,15 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 px-5 pl-lg-0 pb-5 pb-lg-0">
-                    <img class="img-fluid w-100 rounded-circle shadow-sm" src="img/larry.png" alt="">
-                </div>
+                    <!-- <img class="img-fluid w-100 rounded-circle shadow-sm" src="img/larry.png" alt=""> -->
+                    <video class="img-fluid w-100 rounded-circle shadow-sm" src="img/Vide1.mp4" autoplay muted loop></video>
+                    </div>
                 <div class="col-lg-7 text-center text-lg-left">
                     <h3 class="text-white font-weight-normal mb-3">Hola! Soy</h3>
                     <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">
                         Larry Garcia</h1>
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
-                    <div class="typed-text d-none">Backend Developer, Web Designer, Web Developer, Apps Designer, Apps Developer </div>
+                    <div class="typed-text d-none"> Desarrollador Junior con conocimientos en, Backend Development, Diseño y Desarrollo Web, Así como Diseño y Desarrollo de Aplicaciones.</div>
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
                         <a href="lib/cv/HDVlarrygarciamorales_573173328716.pdf" class="btn btn-outline-light mr-5 " download>Descargar CV</a>
                         <!-- <button type="button" class="btn-play" data-toggle="modal"
@@ -112,10 +119,10 @@
             <br><br><br>
             <div class="row align-items-center">
                 <div class="col-lg-5 pb-4 pb-lg-0">
-                    <img class="img-fluid rounded w-100" src="img/Larry2.jpg" alt="">
+                    <img class="img-fluid rounded w-100" src="img/ime2.jpg" alt="">
                 </div>
                 <div class="col-lg-7">
-                    <h3 class="mb-4"> Web Developer</h3>
+                    <h3 class="mb-4"> Desarrolador Web</h3>
                     <p>Tecnólogo en Análisis y Desarrollo de Software egresado del SENA, apasionado por la
                         creación de soluciones tecnológicas innovadoras. Poseo sólidos conocimientos en PHP,
                         SQL, HTML, CSS, y experiencia en frameworks como Node.js, Laravel y Bootstrap.
@@ -338,7 +345,7 @@
                 <div class="col-lg-4 col-md-6 text-center mb-5">
                     <div class="d-flex align-items-center justify-content-center mb-4">
                         <i class="fa fa-2x fa-laptop service-icon bg-primary text-white mr-3"></i>
-                        <h4 class="font-weight-bold m-0">Web Design</h4>
+                        <h4 class="font-weight-bold m-0">Diseñador Web</h4>
                     </div>
                     <p>Soy desarrollador web con experiencia en la creación de sitios web funcionales y atractivos. Ofrezco soluciones personalizadas, desde el diseño hasta la implementación, asegurando una experiencia de usuario óptima y un rendimiento eficiente.</p>
                     <!-- <a class="border-bottom border-primary text-decoration-none" href="">Read More</a> -->
@@ -346,7 +353,7 @@
                 <div class="col-lg-4 col-md-6 text-center mb-5">
                     <div class="d-flex align-items-center justify-content-center mb-4">
                         <i class="fa fa-2x fa-laptop-code service-icon bg-primary text-white mr-3"></i>
-                        <h4 class="font-weight-bold m-0">Web Development</h4>
+                        <h4 class="font-weight-bold m-0">Desarrollador Web</h4>
                     </div>
                     <p>Soy desarrollador web especializado en la creación de aplicaciones y sitios web robustos y escalables. Con un enfoque en la calidad del código y la eficiencia, ofrezco soluciones completas para proyectos personalizados, adaptadas a las necesidades de cada cliente.</p>
                     <!-- <a class="border-bottom border-primary text-decoration-none" href="">Read More</a> -->
@@ -363,7 +370,7 @@
                 <div class="col-lg-4 col-md-6 text-center mb-5">
                     <div class="d-flex align-items-center justify-content-center mb-4">
                         <i class="fas fa-2x fa-server service-icon bg-primary text-white mr-3"></i>
-                        <h4 class="font-weight-bold m-0">Backend Development</h4>
+                        <h4 class="font-weight-bold m-0">Desarrollador Backend</h4>
                     </div>
                     <p>
                         Soy desarrollador Backend con experiencia en la creación de aplicaciones robustas y escalables. Trabajo principalmente con tecnologías como PHP, Node.js, Python, Java, etc para construir y mantener la lógica del servidor, bases de datos y API,
@@ -406,8 +413,8 @@
                 <div class="col-12 text-center mb-2">
                     <ul class="list-inline mb-4" id="portfolio-flters">
                         <li class="btn btn-sm btn-outline-primary m-1 active" data-filter="*">All</li>
-                        <li class="btn btn-sm btn-outline-primary m-1" data-filter=".first">Design</li>
-                        <li class="btn btn-sm btn-outline-primary m-1" data-filter=".second">Development</li>
+                        <li class="btn btn-sm btn-outline-primary m-1" data-filter=".first">Diseño</li>
+                        <li class="btn btn-sm btn-outline-primary m-1" data-filter=".second">Desarrollo</li>
                         <!-- <li class="btn btn-sm btn-outline-primary m-1" data-filter=".third">Marketing</li> -->
                     </ul>
                 </div>
@@ -570,6 +577,7 @@
     <br><br><br><br>
 
     <!-- Contact Start -->
+    <!--
     <div class="container-fluid py-5" id="contact">
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center">
@@ -615,6 +623,7 @@
             </div>
         </div>
     </div>
+     -->
     <!-- Contact End -->
 
 
@@ -637,7 +646,7 @@
                 <a class="text-white" href="#">Help</a>
             </div> -->
             <br>
-            <p class="m-0">&copy; <a class="text-white font-weight-bold" href="#">Domain Name</a>. All Rights Reserved.
+            <p class="m-0">&copy; <a class="text-white font-weight-bold" href="https://larrydev.shop/">larrydev.shop/</a>. All Rights Reserved.
                 Designed by <a class="text-white font-weight-bold" href="#">Larry Garcia</a>
             </p>
         </div>
