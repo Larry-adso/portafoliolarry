@@ -83,19 +83,22 @@ if ($id_rol == '4') {
 
         // Crear una instancia de PHPMailer
         $mail = new PHPMailer(true);
+        $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+        $dotenv->load();
+
 
         try {
             // Configuración del servidor SMTP
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com';  // Especifica el servidor SMTP de Gmail
             $mail->SMTPAuth = true;
-            $mail->Username = 'senatrabajos2022@gmail.com';  // Tu dirección de correo
-            $mail->Password = 'ifan ewbg exlf hjck';  // Tu contraseña de correo
+            $mail->Username = $_ENV['MAIL_USERNAME'];  // Tu dirección de correo
+            $mail->Password = $_ENV['MAIL_PASSWORD'];
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
             $mail->Port = 587;
 
             // Remitente y destinatario
-            $mail->setFrom('senatrabajos2022@gmail.com', 'Soporte');
+            $mail->setFrom('windonpc125@gmail.com', 'Soporte');
             $mail->addAddress($correo_us, $nombre_us . ' ' . $apellido_us);
 
             // Adjuntar la imagen si existe

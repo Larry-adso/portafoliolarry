@@ -9,6 +9,8 @@
 	<link rel="icon" type="image/png" href="../img/logo_algj.png">
 	<link rel="stylesheet" href="../css/styles.css" />
 	<script src="script.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 	</head>
 
 
@@ -29,7 +31,7 @@
 				</div>
 
 				<div class="container-user">
-					<a href="../dev/PHP/login.php"><i class="fa-solid fa-user"></i></a>
+					<a style=" text-decoration: none; " href="../dev/PHP/login.php"><i class="fa-solid fa-user"></i> <br> Login</a>
 
 				</div>
 			</div>
@@ -132,7 +134,9 @@
 			<div class="container-categories">
 				<div class="card-category category-larry">
 					<p>Larry Garcia Morales</p>
-					<span>Líder de Proyecto</span>
+					<span> Project Manager (PM)</span>
+					<span>Desarrollador Backend</span>
+					<span>DBA (Administrador de Bases de Datos)</span>
 				</div>
 				<div class="card-category category-brian">
 					<p>Brian Avila</p>

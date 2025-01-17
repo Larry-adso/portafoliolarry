@@ -76,7 +76,10 @@ if ($id_rol == '4') { // Verifica si el rol del usuario es '4'
         <title>Menu desarrollador</title>
         <link rel="stylesheet" href="PHP/css/dev.css">
         <link rel="icon" type="image/png" href="../img/logo_algj.png">
-        <script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
+
         </style>
     </head>
 
@@ -119,8 +122,8 @@ if ($id_rol == '4') { // Verifica si el rol del usuario es '4'
                 </a>
                 <a href="PHP/developer/devs.php">
                     <div class="option">
-                        <i class="fas fa-children"></i>
-                        <h4>Ver Personas</h4>
+                    <i class="fa-solid fa-children"></i>
+                    <h4>Ver Personas</h4>
                     </div>
                 </a>
                 <a href="PHP/developer/estados.php">
