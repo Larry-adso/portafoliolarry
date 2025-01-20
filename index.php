@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <title>Larry Garcia</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="Portafolio Larry Garcia" name="keywords">
+    <meta content="Portafolio Larry Garcia" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -204,6 +204,36 @@
                             <h5 class="font-weight-bold mb-1">Tecnólogo en Análisis y desarrollo de software.</h5>
                             <p class="mb-2"><strong>Servicio Nacional de Aprendizaje - SENA.</strong> | <small>2022 -
                                     2025</small></p>
+                            <!-- <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam</p> -->
+                        </div>
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute"
+                                style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">Visualizacion de datos Python </h5>
+                            <p class="mb-2"><strong>Servicio Nacional de Aprendizaje - SENA.</strong> | <small>2022 -
+                                    2025</small></p>
+                                    <a class="border-bottom border-primary text-decoration-none" href="lib/cv/python.pdf" target="_blank" >Ver certificado</a>
+
+                            <!-- <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam</p> -->
+                        </div>
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute"
+                                style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">JavaScript</h5>
+                            <p class="mb-2"><strong>Servicio Nacional de Aprendizaje - SENA.</strong> | <small>2022 -
+                                    2025</small></p>
+                                    <a class="border-bottom border-primary text-decoration-none" href="lib/cv/javascript.pdf" target="_blank" >Ver certificado</a>
+
+                            <!-- <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam</p> -->
+                        </div>
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute"
+                                style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">Creacion de aplicaciones Web en tiempo real NODE JS</h5>
+                            <p class="mb-2"><strong>Servicio Nacional de Aprendizaje - SENA.</strong> | <small>2022 -
+                                    2025</small></p>
+                                    <a class="border-bottom border-primary text-decoration-none" href="lib/cv/node.pdf" target="_blank" >Ver certificado</a>
+
                             <!-- <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam</p> -->
                         </div>
                     </div>
@@ -430,6 +460,8 @@
                             </a>
 
                         </div>
+                        <p style="text-align: center;" >Frontend</p>
+
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
@@ -440,19 +472,21 @@
                                 <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                             </a>
                         </div>
+                        <p style="text-align: center;" >Aplicacion NODEJS</p>
                     </div>
                 </div>
 
-                <!-- <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="img/portfolio-4.jpg" alt="">
+                        <img class="img-fluid rounded w-100" src="img/api.png" alt="">
                         <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="img/portfolio-4.jpg" data-lightbox="portfolio">
+                            <a href="lib/cv/api.pdf" target="_blank">
                                 <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                             </a>
                         </div>
+                            <p style="text-align: center;" >API</p>
                     </div>
-                </div> -->
+                </div> 
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid rounded w-100" src="img/nomina3.png" alt="">
@@ -461,6 +495,8 @@
                                 <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                             </a>
                         </div>
+                        <p style="text-align: center;" >Aplicacion PHP</p>
+
                     </div>
                 </div>
                 <!-- <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
@@ -588,9 +624,10 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="contact-form text-center">
+                        <!--<form action="mail/contact.php" method="POST" >-->
                         <div id="success"></div>
+                        <!-- Este formulario recibe toda la Data y la envia a un Filtro JavaScript -->
                          <form name="sentMessage" id="contactForm" novalidate="novalidate"> 
-                            <!--<form action="mail/contact.php" method="POST" >-->
                             <div class="form-row">
                                 <div class="control-group col-sm-6">
                                     <input type="text" class="form-control p-4" name="name" id="name" placeholder="Tu nombre"
