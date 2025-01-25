@@ -1,4 +1,7 @@
 <?php
+
+require '../php/nomina/vendor/autoload.php';
+
 header('Content-Type: application/json');
 
 // Validar los datos enviados
@@ -17,10 +20,14 @@ $message = strip_tags(htmlspecialchars($_POST['message']));
 // Preparar el mensaje para WhatsApp
 $mensajito = "Hola Larry! " . $name . " quiere hablar contigo. Su correo es " . $email . ", su número de WhatsApp es " . $subject . ", y su mensaje es: *" . $message . "*";
 
+$dotenv = Dotenv\Dotenv::createImmutable('../php/nomina/dev/PHP/');
+$dotenv->load();
+
+
 // Configuración de la API de Facebook para enviar mensajes de WhatsApp
-$token = 'EAAQzt8PMvmEBO9dENtMFYdN1wWmo9S3ZApIwOYHBAzaBGXJVoffHCjxsLZCwvM6REpvLb38Nz2az2mIzH4tQXqJMXP6rMHxusn2oVr9hV6tB6THPGctIvwK7m3eHGpQQ2PkmA3oKtSPNo8gBUAu5xNoHXuyyXZAlPrwvbbT2YAZCCc8333yIIYZCZCQACpXsEeGAZDZD';
-$telefono = '573144419828';
-$url = 'https://graph.facebook.com/v21.0/525591510641821/messages';
+$token = $_ENV['API_TOKEN'];
+$telefono = $_ENV['NUMERO'];
+$url = $_ENV['API_URL'];
 
 // Configuración del cuerpo del mensaje
 $mensaje = json_encode([
