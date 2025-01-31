@@ -25,7 +25,7 @@
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
 
-    
+
     <link rel="icon" href="img/ime2.jpg" type="image/png">
 
 </head>
@@ -48,8 +48,8 @@
                 <a href="#skill" class="nav-item nav-link">Habilidades</a>
                 <a href="#service" class="nav-item nav-link">Servicios</a>
                 <a href="#portfolio" class="nav-item nav-link">Portafolio</a>
-               
-               <!-- <a href="#testimonial" class="nav-item nav-link">Review</a>
+
+                <!-- <a href="#testimonial" class="nav-item nav-link">Review</a>
                 <a href="#blog" class="nav-item nav-link">Blog</a>
                 <a href="#contact" class="nav-item nav-link">Contact</a>
                  -->
@@ -88,7 +88,7 @@
                 <div class="col-lg-5 px-5 pl-lg-0 pb-5 pb-lg-0">
                     <!-- <img class="img-fluid w-100 rounded-circle shadow-sm" src="img/larry.png" alt=""> -->
                     <video class="img-fluid w-100 rounded-circle shadow-sm" src="img/Vide1.mp4" autoplay muted loop></video>
-                    </div>
+                </div>
                 <div class="col-lg-7 text-center text-lg-left">
                     <h3 class="text-white font-weight-normal mb-3">Hola! Soy</h3>
                     <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">
@@ -96,7 +96,7 @@
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
                     <div class="typed-text d-none"> Desarrollador Junior con conocimientos en, Backend Development, Diseño y Desarrollo Web, Así como Diseño y Desarrollo de Aplicaciones.</div>
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                        <a href="lib/cv/HDVlarrygarciamorales_573173328716.pdf" class="btn btn-outline-light mr-5 " download>Descargar CV</a>
+                        <a href="lib/cv/hdv.pdf" class="btn btn-outline-light mr-5 " download>Descargar CV</a>
                         <!-- <button type="button" class="btn-play" data-toggle="modal"
                             data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
                             <span></span>
@@ -212,7 +212,7 @@
                             <h5 class="font-weight-bold mb-1">Visualizacion de datos Python </h5>
                             <p class="mb-2"><strong>Servicio Nacional de Aprendizaje - SENA.</strong> | <small>2022 -
                                     2025</small></p>
-                                    <a class="border-bottom border-primary text-decoration-none" href="lib/cv/python.pdf" target="_blank" >Ver certificado</a>
+                            <a class="border-bottom border-primary text-decoration-none" href="lib/cv/python.pdf" target="_blank">Ver certificado</a>
 
                             <!-- <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam</p> -->
                         </div>
@@ -222,7 +222,7 @@
                             <h5 class="font-weight-bold mb-1">JavaScript</h5>
                             <p class="mb-2"><strong>Servicio Nacional de Aprendizaje - SENA.</strong> | <small>2022 -
                                     2025</small></p>
-                                    <a class="border-bottom border-primary text-decoration-none" href="lib/cv/javascript.pdf" target="_blank" >Ver certificado</a>
+                            <a class="border-bottom border-primary text-decoration-none" href="lib/cv/javascript.pdf" target="_blank">Ver certificado</a>
 
                             <!-- <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam</p> -->
                         </div>
@@ -232,7 +232,7 @@
                             <h5 class="font-weight-bold mb-1">Creacion de aplicaciones Web en tiempo real NODE JS</h5>
                             <p class="mb-2"><strong>Servicio Nacional de Aprendizaje - SENA.</strong> | <small>2022 -
                                     2025</small></p>
-                                    <a class="border-bottom border-primary text-decoration-none" href="lib/cv/node.pdf" target="_blank" >Ver certificado</a>
+                            <a class="border-bottom border-primary text-decoration-none" href="lib/cv/node.pdf" target="_blank">Ver certificado</a>
 
                             <!-- <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam</p> -->
                         </div>
@@ -244,11 +244,13 @@
                         <div class="position-relative mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute"
                                 style="top: 2px; left: -32px;"></i>
-                            <h5 class="font-weight-bold mb-1">Personal de Apoyo y logistica</h5>
-                            <p class="mb-2"><strong> ESCUELA DE MÚSICA ROVIRA TOLIMA</strong> | <small>2018 -
-                                    2019</small></p>
-                            <p>Mantenimiento de equipos de computo, instalaciones electricas y funciones de apoyo en
-                                servicios generales.</p>
+                            <h5 class="font-weight-bold mb-1">Gestión y Mantenimiento de Equipos Informáticos con Desarrollo de Aplicativos Web Educativos</strong> | <small>2018 -
+                                    2019</h5>
+                            <p class="mb-2"><strong>ESCUELA DE MUSICA ROVIRA TOLIMA</strong></small></p>
+                            <p>Desarrollo de aplicaciones web educativas con acceso centralizado a contenidos, herramientas interactivas y diseño responsivo para mejorar la experiencia de aprendizaje.
+                                <br>
+                                Soporte técnico y mantenimiento de hardware, incluyendo cambio de pasta térmica, actualización de memoria RAM y sustitución de componentes críticos para asegurar el rendimiento óptimo de los equipos.
+                            </p>
                         </div>
                         <div class="position-relative mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute"
@@ -270,7 +272,7 @@
                                 Realización de web scraping para la recopilación y análisis de datos, facilitando la
                                 toma de decisiones basadas en información en tiempo real.
                             </p>
-                            <a class="border-bottom border-primary text-decoration-none" href="lib/cv/Certificacion Laboral Larry.pdf" target="_blank" >Ver certificado</a>
+                            <a class="border-bottom border-primary text-decoration-none" href="lib/cv/Certificacion Laboral Larry.pdf" target="_blank">Ver certificado</a>
 
                         </div>
                         <!-- <div class="position-relative mb-4">
@@ -288,7 +290,7 @@
 
 
     <!-- Skill Start -->
-    <div class="container-fluid py-5" id="skill">
+    <div class="container-fluid py-5" id="skill" style="background-color: #f4f6f6;">
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center">
                 <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Habilidades</h1>
@@ -460,7 +462,7 @@
                             </a>
 
                         </div>
-                        <p style="text-align: center;" >Frontend</p>
+                        <p style="text-align: center;">Frontend</p>
 
                     </div>
                 </div>
@@ -472,7 +474,7 @@
                                 <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                             </a>
                         </div>
-                        <p style="text-align: center;" >Aplicacion NODEJS</p>
+                        <p style="text-align: center;">Aplicacion NODEJS</p>
                     </div>
                 </div>
 
@@ -484,9 +486,9 @@
                                 <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                             </a>
                         </div>
-                            <p style="text-align: center;" >API</p>
+                        <p style="text-align: center;">API</p>
                     </div>
-                </div> 
+                </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative overflow-hidden mb-2">
                         <img class="img-fluid rounded w-100" src="img/nomina3.png" alt="">
@@ -495,7 +497,7 @@
                                 <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                             </a>
                         </div>
-                        <p style="text-align: center;" >Aplicacion PHP</p>
+                        <p style="text-align: center;">Aplicacion PHP</p>
 
                     </div>
                 </div>
@@ -614,7 +616,7 @@
     <br><br><br><br>
 
     <!-- Contact Start -->
-    
+
     <div class="container-fluid py-5" id="contact">
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center">
@@ -627,7 +629,7 @@
                         <!--<form action="mail/contact.php" method="POST" >-->
                         <div id="success"></div>
                         <!-- Este formulario recibe toda la Data y la envia a un Filtro JavaScript -->
-                         <form name="sentMessage" id="contactForm" novalidate="novalidate"> 
+                        <form name="sentMessage" id="contactForm" novalidate="novalidate">
                             <div class="form-row">
                                 <div class="control-group col-sm-6">
                                     <input type="text" class="form-control p-4" name="name" id="name" placeholder="Tu nombre"
@@ -662,7 +664,7 @@
             </div>
         </div>
     </div>
-    
+
     <!-- Contact End -->
 
 
