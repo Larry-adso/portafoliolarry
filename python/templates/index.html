@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Subir CSV y Seleccionar Gráfico</title>
+</head>
+<body>
+    <h1>Sube tu archivo CSV</h1>
+    <form action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data">
+        <label for="csv_file">Archivo CSV:</label>
+        <input type="file" name="csv_file" accept=".csv" required>
+        <br><br>
+        <label for="chart_type">Tipo de gráfico:</label>
+        <select name="chart_type" id="chart_type">
+            <option value="line">Línea</option>
+            <option value="bar">Barras</option>
+            <option value="pie">Torta</option>
+        </select>
+        <br><br>
+        <button type="submit">Subir y generar gráficos</button>
+    </form>
+</body>
+</html>

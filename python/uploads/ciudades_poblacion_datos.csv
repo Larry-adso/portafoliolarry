@@ -1,0 +1,1001 @@
+ID,Ciudad,Población,Edad,Género
+1,Medellín,168620,61,No Binario
+2,Cartagena,65266,23,Masculino
+3,Cúcuta,804960,41,Masculino
+4,Bucaramanga,520918,44,No Binario
+5,Bogotá,468553,40,Masculino
+6,Manizales,60822,29,No Binario
+7,Barranquilla,121747,61,Masculino
+8,Cúcuta,768994,34,No Binario
+9,Barranquilla,612382,69,Masculino
+10,Manizales,106492,22,No Binario
+11,Pereira,798527,34,No Binario
+12,Bucaramanga,407627,28,Masculino
+13,Cúcuta,202894,19,No Binario
+14,Medellín,940388,69,Masculino
+15,Manizales,123726,66,Masculino
+16,Santa Marta,556220,66,Femenino
+17,Bogotá,372223,55,No Binario
+18,Santa Marta,958083,24,Femenino
+19,Cali,210639,36,No Binario
+20,Bogotá,969187,28,Femenino
+21,Santa Marta,488665,51,Masculino
+22,Cúcuta,409681,66,Femenino
+23,Pereira,909989,38,Masculino
+24,Cúcuta,255870,80,No Binario
+25,Bogotá,370692,26,No Binario
+26,Bucaramanga,986418,22,Masculino
+27,Pereira,611726,62,Femenino
+28,Barranquilla,994009,18,Femenino
+29,Medellín,922516,56,No Binario
+30,Bucaramanga,538710,26,Femenino
+31,Manizales,81791,26,Masculino
+32,Cali,680081,79,Femenino
+33,Medellín,759942,73,Femenino
+34,Santa Marta,898630,72,Femenino
+35,Santa Marta,557195,45,Masculino
+36,Pereira,783753,18,Femenino
+37,Barranquilla,341361,19,No Binario
+38,Medellín,588583,40,Masculino
+39,Medellín,542926,26,Masculino
+40,Cartagena,810443,42,No Binario
+41,Medellín,876337,46,No Binario
+42,Bogotá,708801,22,Femenino
+43,Cartagena,558574,32,No Binario
+44,Pereira,624290,59,Masculino
+45,Pereira,472375,70,Masculino
+46,Bucaramanga,894011,64,Masculino
+47,Barranquilla,82970,53,Femenino
+48,Manizales,904991,61,No Binario
+49,Pereira,631277,63,No Binario
+50,Santa Marta,212236,75,Femenino
+51,Cartagena,749969,34,Masculino
+52,Cartagena,101996,38,No Binario
+53,Manizales,517173,61,Masculino
+54,Manizales,852761,29,Femenino
+55,Cali,297362,76,Masculino
+56,Santa Marta,914449,64,Femenino
+57,Medellín,689998,41,No Binario
+58,Medellín,815142,38,Masculino
+59,Cali,97867,28,Femenino
+60,Barranquilla,109187,43,No Binario
+61,Cúcuta,386778,77,Femenino
+62,Cúcuta,149194,60,Masculino
+63,Cartagena,998553,67,Masculino
+64,Cali,161220,63,Masculino
+65,Cartagena,587564,63,Masculino
+66,Santa Marta,863002,30,No Binario
+67,Santa Marta,775199,66,Femenino
+68,Cartagena,872723,31,No Binario
+69,Bogotá,443890,21,Masculino
+70,Cartagena,693944,63,Masculino
+71,Barranquilla,491255,78,Masculino
+72,Manizales,794023,49,Masculino
+73,Medellín,105376,28,Femenino
+74,Barranquilla,179004,67,Femenino
+75,Barranquilla,729456,24,No Binario
+76,Cali,903917,74,Masculino
+77,Cartagena,899781,64,Femenino
+78,Cali,580923,19,Masculino
+79,Cúcuta,265836,77,Femenino
+80,Cúcuta,311259,39,Femenino
+81,Bucaramanga,726328,41,No Binario
+82,Santa Marta,947212,49,Masculino
+83,Cúcuta,866516,42,Masculino
+84,Bogotá,83939,36,Femenino
+85,Barranquilla,274923,22,Masculino
+86,Pereira,823241,35,Femenino
+87,Pereira,137388,75,Femenino
+88,Medellín,911914,49,Masculino
+89,Manizales,811138,36,Femenino
+90,Manizales,637180,29,No Binario
+91,Medellín,844903,69,Femenino
+92,Cali,938129,59,Masculino
+93,Medellín,56220,72,Femenino
+94,Cartagena,53839,49,No Binario
+95,Cali,470749,70,No Binario
+96,Manizales,469654,20,No Binario
+97,Bucaramanga,486071,74,Femenino
+98,Barranquilla,637586,64,Masculino
+99,Bogotá,614185,40,Femenino
+100,Pereira,109090,56,Masculino
+101,Bogotá,231170,27,Femenino
+102,Bogotá,295981,19,No Binario
+103,Barranquilla,176563,43,Masculino
+104,Manizales,308985,56,Masculino
+105,Barranquilla,62547,48,Femenino
+106,Cartagena,399802,20,Masculino
+107,Bucaramanga,628239,49,Femenino
+108,Bogotá,90338,60,Masculino
+109,Barranquilla,474522,79,No Binario
+110,Cali,794680,74,No Binario
+111,Cali,869798,61,No Binario
+112,Medellín,490264,26,No Binario
+113,Barranquilla,146493,36,No Binario
+114,Cartagena,589592,59,Masculino
+115,Barranquilla,906789,57,Femenino
+116,Medellín,370093,70,No Binario
+117,Barranquilla,610636,65,No Binario
+118,Bogotá,872882,26,Masculino
+119,Cali,398275,77,Masculino
+120,Bogotá,888437,55,Femenino
+121,Manizales,982865,44,Masculino
+122,Medellín,917577,36,No Binario
+123,Bogotá,230282,78,Femenino
+124,Santa Marta,911683,37,No Binario
+125,Cúcuta,662216,37,Femenino
+126,Barranquilla,794230,42,Masculino
+127,Cali,863623,69,Masculino
+128,Santa Marta,986961,21,Masculino
+129,Barranquilla,433365,39,No Binario
+130,Bucaramanga,963965,49,Femenino
+131,Cali,239682,79,Femenino
+132,Medellín,955983,38,Femenino
+133,Cúcuta,650979,47,No Binario
+134,Santa Marta,694794,62,Masculino
+135,Manizales,808881,50,Femenino
+136,Santa Marta,693654,26,Femenino
+137,Pereira,288689,28,Femenino
+138,Barranquilla,810777,68,Masculino
+139,Bogotá,774264,40,No Binario
+140,Cúcuta,721385,40,No Binario
+141,Barranquilla,545979,64,No Binario
+142,Manizales,883250,39,Femenino
+143,Cúcuta,637841,34,No Binario
+144,Cali,668180,19,Masculino
+145,Pereira,902657,33,Femenino
+146,Cali,91257,21,Femenino
+147,Cali,132414,63,Femenino
+148,Bogotá,509789,76,Femenino
+149,Cúcuta,535931,27,No Binario
+150,Cúcuta,511517,56,Masculino
+151,Cali,296758,46,Masculino
+152,Medellín,789699,64,No Binario
+153,Cartagena,689576,67,No Binario
+154,Medellín,65156,52,Femenino
+155,Santa Marta,249099,31,Masculino
+156,Manizales,75104,18,Masculino
+157,Bogotá,845047,38,Femenino
+158,Cali,548794,61,Femenino
+159,Cúcuta,544697,42,Femenino
+160,Cartagena,150807,74,Femenino
+161,Bucaramanga,404235,41,Femenino
+162,Cali,645161,64,Femenino
+163,Bucaramanga,920600,74,No Binario
+164,Manizales,925497,72,Masculino
+165,Pereira,925571,20,No Binario
+166,Bucaramanga,421194,57,Femenino
+167,Bogotá,302393,50,Masculino
+168,Cartagena,604044,24,Femenino
+169,Medellín,635773,27,No Binario
+170,Santa Marta,534883,79,No Binario
+171,Manizales,953168,38,Masculino
+172,Barranquilla,990295,60,No Binario
+173,Bucaramanga,180752,57,No Binario
+174,Cartagena,269205,23,Masculino
+175,Cartagena,64471,35,Femenino
+176,Cartagena,260246,47,Masculino
+177,Cartagena,971079,22,No Binario
+178,Medellín,739386,43,Femenino
+179,Cúcuta,397911,50,Femenino
+180,Bogotá,122140,48,No Binario
+181,Pereira,484878,41,No Binario
+182,Bogotá,102400,20,Masculino
+183,Santa Marta,241714,45,No Binario
+184,Manizales,419963,38,Masculino
+185,Barranquilla,400111,59,No Binario
+186,Barranquilla,672361,28,Femenino
+187,Bogotá,442897,80,Femenino
+188,Bucaramanga,419386,43,Femenino
+189,Cali,738676,42,Femenino
+190,Santa Marta,604634,79,Masculino
+191,Santa Marta,125950,34,Masculino
+192,Santa Marta,332729,55,No Binario
+193,Cúcuta,343997,59,No Binario
+194,Bucaramanga,194575,35,No Binario
+195,Cali,352844,64,Femenino
+196,Manizales,356803,61,Masculino
+197,Manizales,509171,22,No Binario
+198,Santa Marta,953073,58,No Binario
+199,Pereira,578420,73,Masculino
+200,Barranquilla,612081,60,Femenino
+201,Manizales,988868,55,Femenino
+202,Cartagena,810394,36,Masculino
+203,Bogotá,449750,32,No Binario
+204,Manizales,554467,29,No Binario
+205,Pereira,122368,74,Femenino
+206,Manizales,302988,65,Femenino
+207,Cúcuta,489600,40,Masculino
+208,Santa Marta,518165,20,Femenino
+209,Cúcuta,215363,43,Masculino
+210,Manizales,294861,59,No Binario
+211,Cali,254810,55,Femenino
+212,Barranquilla,162408,39,No Binario
+213,Santa Marta,591527,72,No Binario
+214,Bucaramanga,568422,40,Femenino
+215,Bucaramanga,690412,59,Masculino
+216,Bucaramanga,508817,59,Femenino
+217,Manizales,971567,57,No Binario
+218,Cartagena,140070,38,No Binario
+219,Barranquilla,658950,43,Masculino
+220,Manizales,208095,80,Masculino
+221,Santa Marta,829229,62,Femenino
+222,Bogotá,758915,75,Femenino
+223,Bucaramanga,610028,69,Masculino
+224,Medellín,247178,60,No Binario
+225,Cartagena,247548,61,Masculino
+226,Bucaramanga,299544,28,No Binario
+227,Bucaramanga,587980,65,Masculino
+228,Barranquilla,531014,18,No Binario
+229,Pereira,445964,73,Femenino
+230,Bogotá,848613,80,No Binario
+231,Bogotá,220781,43,Masculino
+232,Cúcuta,865202,34,Masculino
+233,Santa Marta,116656,52,Masculino
+234,Cartagena,661671,29,Femenino
+235,Medellín,257538,75,Masculino
+236,Pereira,553626,79,No Binario
+237,Santa Marta,550362,75,Masculino
+238,Cartagena,309783,55,Femenino
+239,Cartagena,567039,35,Femenino
+240,Bucaramanga,319561,59,Femenino
+241,Cali,71686,24,Femenino
+242,Cúcuta,990965,69,Femenino
+243,Barranquilla,717699,55,Femenino
+244,Bogotá,812438,58,No Binario
+245,Cartagena,634687,22,Masculino
+246,Bogotá,669338,30,No Binario
+247,Pereira,590449,39,Masculino
+248,Bucaramanga,495523,78,Masculino
+249,Santa Marta,790497,19,Masculino
+250,Cúcuta,227389,59,Masculino
+251,Cali,953703,46,Masculino
+252,Cartagena,522391,57,Masculino
+253,Barranquilla,425547,41,Masculino
+254,Santa Marta,930420,31,Masculino
+255,Barranquilla,417270,69,Masculino
+256,Bogotá,553108,56,Femenino
+257,Cali,366340,35,Masculino
+258,Cartagena,181242,50,Femenino
+259,Pereira,443526,21,Masculino
+260,Bogotá,923163,48,No Binario
+261,Medellín,238987,60,No Binario
+262,Cartagena,328121,73,No Binario
+263,Medellín,394658,23,Masculino
+264,Santa Marta,432914,21,Femenino
+265,Cartagena,578988,35,Femenino
+266,Medellín,951095,18,No Binario
+267,Manizales,516105,44,Masculino
+268,Manizales,939214,79,Femenino
+269,Bogotá,919995,65,Femenino
+270,Bucaramanga,61035,21,Masculino
+271,Cali,147645,76,Femenino
+272,Medellín,153648,27,No Binario
+273,Cali,316447,39,Masculino
+274,Cali,336486,60,No Binario
+275,Santa Marta,353637,73,Masculino
+276,Medellín,115675,46,Femenino
+277,Barranquilla,238903,67,Femenino
+278,Bogotá,640215,34,Masculino
+279,Medellín,672632,61,No Binario
+280,Barranquilla,931380,66,Masculino
+281,Medellín,219143,30,No Binario
+282,Pereira,489888,58,Femenino
+283,Bogotá,563998,75,No Binario
+284,Cali,544838,39,Femenino
+285,Bogotá,734081,34,Femenino
+286,Santa Marta,676589,26,Femenino
+287,Cartagena,461646,70,Masculino
+288,Cartagena,253474,28,Femenino
+289,Medellín,400775,20,Masculino
+290,Cali,909149,61,Femenino
+291,Medellín,834145,48,No Binario
+292,Medellín,829676,31,No Binario
+293,Medellín,726293,43,Femenino
+294,Cali,489355,41,No Binario
+295,Bogotá,990822,28,No Binario
+296,Cartagena,314573,62,Femenino
+297,Cali,106441,45,Masculino
+298,Bogotá,509015,32,Femenino
+299,Pereira,623503,59,No Binario
+300,Medellín,166062,65,Femenino
+301,Cúcuta,455105,67,No Binario
+302,Bogotá,282166,69,Masculino
+303,Cali,560940,74,Masculino
+304,Cali,202627,63,No Binario
+305,Cartagena,200009,50,Masculino
+306,Bucaramanga,681324,40,Femenino
+307,Bogotá,803679,52,No Binario
+308,Medellín,937496,24,No Binario
+309,Santa Marta,328280,22,Masculino
+310,Barranquilla,319345,48,Masculino
+311,Bogotá,308603,28,No Binario
+312,Cali,499106,19,Masculino
+313,Bogotá,688509,64,No Binario
+314,Cali,439214,35,Femenino
+315,Cartagena,184335,48,Femenino
+316,Pereira,625280,19,No Binario
+317,Cartagena,712686,68,Femenino
+318,Cartagena,98926,65,Masculino
+319,Cúcuta,948842,32,Femenino
+320,Cartagena,243926,28,No Binario
+321,Manizales,234212,41,Masculino
+322,Cartagena,517738,62,No Binario
+323,Manizales,907625,46,Masculino
+324,Cali,557568,33,Femenino
+325,Medellín,668013,24,Masculino
+326,Bogotá,524678,58,Femenino
+327,Pereira,686605,45,Femenino
+328,Bucaramanga,757557,80,Masculino
+329,Bogotá,374613,51,Femenino
+330,Barranquilla,190892,51,No Binario
+331,Medellín,676074,22,Femenino
+332,Barranquilla,855157,38,Masculino
+333,Santa Marta,134916,21,Masculino
+334,Cartagena,384956,38,No Binario
+335,Cali,228059,36,Femenino
+336,Barranquilla,625746,76,Masculino
+337,Cali,638564,75,Masculino
+338,Bogotá,494695,62,No Binario
+339,Medellín,148550,39,Femenino
+340,Cúcuta,826552,63,No Binario
+341,Cali,325912,80,Femenino
+342,Santa Marta,810525,29,No Binario
+343,Bucaramanga,634984,63,Masculino
+344,Santa Marta,94870,78,Masculino
+345,Santa Marta,534756,37,No Binario
+346,Bogotá,532215,46,Masculino
+347,Barranquilla,349513,25,No Binario
+348,Medellín,831743,57,Femenino
+349,Barranquilla,188902,76,No Binario
+350,Santa Marta,632964,38,No Binario
+351,Manizales,361892,80,Femenino
+352,Bogotá,854657,30,Femenino
+353,Cartagena,371499,34,No Binario
+354,Medellín,110907,27,Femenino
+355,Bogotá,482238,37,Masculino
+356,Cali,820239,53,Masculino
+357,Bogotá,827130,26,No Binario
+358,Cartagena,802390,52,No Binario
+359,Manizales,208603,35,Femenino
+360,Bucaramanga,126554,22,No Binario
+361,Santa Marta,726643,65,No Binario
+362,Cartagena,705637,70,No Binario
+363,Pereira,296215,21,Masculino
+364,Santa Marta,243643,67,No Binario
+365,Cúcuta,161087,24,Femenino
+366,Manizales,454993,79,Masculino
+367,Bucaramanga,857151,43,Masculino
+368,Bucaramanga,427656,44,No Binario
+369,Bucaramanga,465912,20,Masculino
+370,Bogotá,287515,51,Femenino
+371,Cúcuta,425974,25,No Binario
+372,Bogotá,247163,31,Masculino
+373,Pereira,982131,59,Femenino
+374,Manizales,509505,55,No Binario
+375,Bucaramanga,279207,67,Masculino
+376,Cali,945054,47,No Binario
+377,Bucaramanga,569859,59,Femenino
+378,Cartagena,846538,61,Femenino
+379,Pereira,570937,22,Masculino
+380,Cali,243853,41,Femenino
+381,Bucaramanga,194468,45,Masculino
+382,Medellín,300857,34,Femenino
+383,Santa Marta,909031,40,No Binario
+384,Medellín,540440,51,Masculino
+385,Barranquilla,669566,30,Femenino
+386,Cúcuta,715511,40,Masculino
+387,Barranquilla,289008,74,Femenino
+388,Pereira,516045,77,Masculino
+389,Manizales,900593,69,Femenino
+390,Bucaramanga,631340,45,Masculino
+391,Manizales,438484,53,Masculino
+392,Cali,736290,39,No Binario
+393,Bucaramanga,56117,59,Femenino
+394,Pereira,653502,39,No Binario
+395,Bucaramanga,237859,72,No Binario
+396,Santa Marta,267150,52,No Binario
+397,Cali,451843,38,Femenino
+398,Medellín,872108,41,Masculino
+399,Bucaramanga,647879,56,No Binario
+400,Santa Marta,462379,61,No Binario
+401,Barranquilla,362229,55,No Binario
+402,Cúcuta,606680,40,Femenino
+403,Santa Marta,655498,30,No Binario
+404,Manizales,203502,45,No Binario
+405,Cartagena,862749,53,No Binario
+406,Santa Marta,444661,38,Femenino
+407,Manizales,998371,19,Masculino
+408,Santa Marta,266879,75,Masculino
+409,Cúcuta,838055,21,No Binario
+410,Santa Marta,823414,25,Femenino
+411,Medellín,912288,52,No Binario
+412,Bogotá,839551,31,No Binario
+413,Cúcuta,207764,20,Femenino
+414,Santa Marta,624911,60,Masculino
+415,Bucaramanga,591606,33,Masculino
+416,Bogotá,293278,67,No Binario
+417,Santa Marta,807226,72,No Binario
+418,Medellín,229889,34,Femenino
+419,Cúcuta,723235,43,Masculino
+420,Barranquilla,876158,60,No Binario
+421,Cúcuta,940754,29,Femenino
+422,Cúcuta,619157,75,No Binario
+423,Medellín,667874,23,Femenino
+424,Barranquilla,824616,65,Masculino
+425,Manizales,65707,48,Femenino
+426,Barranquilla,694951,70,Masculino
+427,Bogotá,586013,25,No Binario
+428,Manizales,703732,74,No Binario
+429,Cartagena,223013,80,No Binario
+430,Cali,94414,20,Masculino
+431,Santa Marta,327164,39,Femenino
+432,Pereira,233085,69,Masculino
+433,Barranquilla,867231,61,Femenino
+434,Manizales,469191,19,Femenino
+435,Barranquilla,954344,29,No Binario
+436,Medellín,504051,55,No Binario
+437,Manizales,848262,26,No Binario
+438,Barranquilla,821115,76,Masculino
+439,Medellín,937297,28,No Binario
+440,Cali,878404,63,Masculino
+441,Santa Marta,349390,65,Masculino
+442,Manizales,112629,27,Masculino
+443,Medellín,200356,24,Masculino
+444,Cúcuta,500207,21,Femenino
+445,Cali,604739,43,No Binario
+446,Cúcuta,906104,52,No Binario
+447,Manizales,76855,39,Femenino
+448,Bogotá,169528,71,Masculino
+449,Medellín,889786,60,Masculino
+450,Pereira,638027,79,Masculino
+451,Barranquilla,354676,72,Femenino
+452,Cartagena,120757,23,Femenino
+453,Cúcuta,891611,66,No Binario
+454,Pereira,981782,64,Masculino
+455,Cúcuta,509326,67,No Binario
+456,Cúcuta,449762,53,Femenino
+457,Santa Marta,265199,35,Masculino
+458,Cúcuta,863767,30,No Binario
+459,Pereira,851444,57,No Binario
+460,Barranquilla,378681,45,Femenino
+461,Barranquilla,562345,48,Masculino
+462,Cali,563376,51,Femenino
+463,Cúcuta,165577,25,Femenino
+464,Santa Marta,124433,78,Masculino
+465,Manizales,386162,31,Masculino
+466,Barranquilla,487306,33,Femenino
+467,Cúcuta,761800,28,Masculino
+468,Santa Marta,879227,38,No Binario
+469,Cartagena,974407,50,Femenino
+470,Cartagena,554001,26,Femenino
+471,Manizales,715735,58,Femenino
+472,Medellín,126639,21,Masculino
+473,Cali,756796,51,Masculino
+474,Bogotá,330152,68,Masculino
+475,Cartagena,96667,34,Femenino
+476,Santa Marta,479615,31,Femenino
+477,Medellín,456703,54,Femenino
+478,Santa Marta,796990,74,No Binario
+479,Medellín,339160,45,No Binario
+480,Cartagena,134602,70,No Binario
+481,Bucaramanga,381586,27,No Binario
+482,Pereira,873799,43,No Binario
+483,Pereira,984646,71,Femenino
+484,Bucaramanga,363916,29,Masculino
+485,Pereira,513909,80,Masculino
+486,Manizales,522178,44,No Binario
+487,Medellín,681401,29,No Binario
+488,Cartagena,853405,64,Femenino
+489,Barranquilla,498516,40,Femenino
+490,Manizales,520845,23,No Binario
+491,Medellín,151457,62,Masculino
+492,Manizales,211264,42,Femenino
+493,Santa Marta,169331,61,Femenino
+494,Bucaramanga,634170,74,Femenino
+495,Bucaramanga,419225,25,Masculino
+496,Manizales,368605,24,No Binario
+497,Santa Marta,412486,52,Femenino
+498,Manizales,566067,27,Masculino
+499,Cúcuta,741075,36,Masculino
+500,Barranquilla,439764,55,Masculino
+501,Barranquilla,164855,18,Masculino
+502,Cali,215088,46,No Binario
+503,Bucaramanga,825255,73,Masculino
+504,Bucaramanga,103784,39,No Binario
+505,Santa Marta,106126,70,No Binario
+506,Santa Marta,487932,61,Femenino
+507,Medellín,850937,65,Femenino
+508,Cúcuta,631508,33,No Binario
+509,Santa Marta,69589,78,Masculino
+510,Pereira,89399,46,No Binario
+511,Pereira,360987,58,No Binario
+512,Bucaramanga,383829,34,Femenino
+513,Pereira,950770,22,No Binario
+514,Pereira,807893,19,Masculino
+515,Barranquilla,665030,32,Masculino
+516,Manizales,594198,64,No Binario
+517,Bogotá,57721,41,Masculino
+518,Bogotá,582944,72,Femenino
+519,Pereira,806656,48,Femenino
+520,Barranquilla,799898,42,No Binario
+521,Cúcuta,361999,71,Masculino
+522,Bogotá,354718,25,Masculino
+523,Cali,219806,28,No Binario
+524,Bucaramanga,239886,34,Masculino
+525,Manizales,358731,67,No Binario
+526,Bogotá,272042,48,No Binario
+527,Bucaramanga,667804,22,Femenino
+528,Bucaramanga,996015,69,Masculino
+529,Cartagena,953324,27,Masculino
+530,Bogotá,514795,27,Masculino
+531,Bogotá,747991,40,No Binario
+532,Barranquilla,250256,78,Femenino
+533,Barranquilla,793983,69,Masculino
+534,Pereira,347133,42,No Binario
+535,Medellín,453736,57,Masculino
+536,Medellín,283349,57,Masculino
+537,Manizales,367888,28,Masculino
+538,Bucaramanga,159895,32,Femenino
+539,Medellín,650705,26,No Binario
+540,Cali,252213,65,Femenino
+541,Cartagena,51647,52,Femenino
+542,Bogotá,696161,40,Femenino
+543,Cartagena,220017,73,Femenino
+544,Pereira,889513,80,Masculino
+545,Barranquilla,200490,20,No Binario
+546,Cúcuta,193740,23,Masculino
+547,Medellín,540712,21,Femenino
+548,Bogotá,764160,43,No Binario
+549,Bogotá,521382,21,No Binario
+550,Cali,873930,51,No Binario
+551,Cúcuta,886421,41,No Binario
+552,Santa Marta,412263,23,No Binario
+553,Manizales,328104,48,Masculino
+554,Cúcuta,393932,80,Masculino
+555,Cúcuta,297510,39,Femenino
+556,Barranquilla,371093,68,Masculino
+557,Bogotá,765565,45,Femenino
+558,Cúcuta,120337,49,Masculino
+559,Cartagena,102920,51,Femenino
+560,Pereira,213876,65,Femenino
+561,Manizales,263517,71,No Binario
+562,Cartagena,660132,68,Femenino
+563,Santa Marta,534867,19,No Binario
+564,Cúcuta,689691,32,Femenino
+565,Cúcuta,758875,22,No Binario
+566,Bogotá,529584,27,Masculino
+567,Cali,214672,66,Femenino
+568,Barranquilla,990207,72,Masculino
+569,Pereira,168068,71,Femenino
+570,Santa Marta,482043,19,Femenino
+571,Barranquilla,602431,61,Masculino
+572,Bucaramanga,791044,61,Femenino
+573,Cúcuta,269689,76,No Binario
+574,Cartagena,405061,19,Femenino
+575,Pereira,720226,59,Femenino
+576,Pereira,381294,36,Femenino
+577,Barranquilla,237155,78,Masculino
+578,Bucaramanga,358739,31,Masculino
+579,Cali,67099,71,Femenino
+580,Medellín,959365,52,Femenino
+581,Bogotá,879914,68,Femenino
+582,Cúcuta,306149,72,No Binario
+583,Bogotá,995230,55,No Binario
+584,Bucaramanga,356255,42,Femenino
+585,Medellín,69266,32,Masculino
+586,Manizales,220254,40,No Binario
+587,Cúcuta,694726,62,Femenino
+588,Manizales,380634,27,Femenino
+589,Pereira,221115,78,Femenino
+590,Bogotá,84668,59,Femenino
+591,Cali,392306,48,Masculino
+592,Bucaramanga,406530,68,Femenino
+593,Medellín,79410,45,Masculino
+594,Barranquilla,441927,30,No Binario
+595,Pereira,233688,73,Masculino
+596,Bogotá,216669,35,No Binario
+597,Cali,936862,61,Femenino
+598,Barranquilla,779044,59,Masculino
+599,Cartagena,516042,60,Masculino
+600,Pereira,832698,47,No Binario
+601,Cali,488140,64,Masculino
+602,Cúcuta,353877,62,Femenino
+603,Medellín,791033,28,Masculino
+604,Pereira,262108,42,No Binario
+605,Pereira,280745,63,Masculino
+606,Cali,360801,47,Masculino
+607,Bucaramanga,565208,49,No Binario
+608,Barranquilla,645472,65,No Binario
+609,Cartagena,595091,44,No Binario
+610,Cartagena,317127,66,No Binario
+611,Manizales,323149,58,No Binario
+612,Cali,515913,39,Masculino
+613,Cúcuta,170470,65,Masculino
+614,Santa Marta,974024,26,No Binario
+615,Medellín,342750,73,Femenino
+616,Cúcuta,824042,73,Femenino
+617,Cúcuta,860509,35,Femenino
+618,Bogotá,127249,29,No Binario
+619,Medellín,627378,42,No Binario
+620,Manizales,893435,36,No Binario
+621,Cali,585614,68,Masculino
+622,Bucaramanga,817009,53,Masculino
+623,Barranquilla,749767,32,No Binario
+624,Pereira,914170,31,No Binario
+625,Santa Marta,560886,47,No Binario
+626,Cúcuta,938173,54,No Binario
+627,Medellín,783392,53,No Binario
+628,Bogotá,305686,57,Femenino
+629,Bucaramanga,757089,53,Femenino
+630,Santa Marta,439982,61,Femenino
+631,Barranquilla,969405,36,Masculino
+632,Cartagena,693991,27,Femenino
+633,Manizales,703500,42,Masculino
+634,Cúcuta,496734,79,Masculino
+635,Cartagena,888348,24,Femenino
+636,Barranquilla,214701,65,Femenino
+637,Cúcuta,831050,56,Masculino
+638,Cúcuta,123849,36,No Binario
+639,Manizales,439305,71,Femenino
+640,Bucaramanga,672356,45,No Binario
+641,Santa Marta,740835,23,Masculino
+642,Bucaramanga,995996,23,Masculino
+643,Cartagena,233706,32,Masculino
+644,Cartagena,373034,40,Femenino
+645,Cúcuta,508710,50,No Binario
+646,Bucaramanga,733204,29,No Binario
+647,Bucaramanga,836420,26,Masculino
+648,Santa Marta,375429,49,Femenino
+649,Pereira,238163,53,No Binario
+650,Cúcuta,744186,74,No Binario
+651,Manizales,749518,22,Femenino
+652,Cúcuta,491596,72,No Binario
+653,Santa Marta,760691,64,Femenino
+654,Bogotá,458592,69,Masculino
+655,Santa Marta,223044,36,Masculino
+656,Cartagena,431483,21,Masculino
+657,Cartagena,318299,38,No Binario
+658,Cúcuta,845671,28,No Binario
+659,Santa Marta,389017,51,No Binario
+660,Manizales,316679,68,Femenino
+661,Santa Marta,607076,62,No Binario
+662,Bogotá,611343,52,No Binario
+663,Medellín,984294,61,Femenino
+664,Cartagena,400467,44,No Binario
+665,Santa Marta,305538,70,Femenino
+666,Manizales,327395,34,Masculino
+667,Cartagena,412162,78,Femenino
+668,Santa Marta,434391,21,Femenino
+669,Bogotá,144031,27,No Binario
+670,Manizales,965334,30,Femenino
+671,Bogotá,527332,58,Femenino
+672,Cúcuta,931542,41,Femenino
+673,Bogotá,269883,18,Masculino
+674,Bogotá,795102,64,Femenino
+675,Cali,59701,69,No Binario
+676,Bucaramanga,757198,72,No Binario
+677,Bogotá,210390,53,No Binario
+678,Medellín,404046,59,No Binario
+679,Medellín,444436,47,Femenino
+680,Santa Marta,554169,69,No Binario
+681,Cúcuta,599341,38,Femenino
+682,Bucaramanga,703462,64,Femenino
+683,Santa Marta,429610,46,No Binario
+684,Medellín,830458,69,No Binario
+685,Pereira,172309,40,Femenino
+686,Bogotá,353940,75,Masculino
+687,Cúcuta,782311,55,No Binario
+688,Barranquilla,854412,26,Femenino
+689,Bucaramanga,255835,51,No Binario
+690,Cúcuta,822553,48,Masculino
+691,Cartagena,939346,39,Masculino
+692,Santa Marta,681830,61,Masculino
+693,Bogotá,882156,23,No Binario
+694,Cali,227297,53,Masculino
+695,Manizales,523290,40,No Binario
+696,Medellín,921838,41,No Binario
+697,Cali,771831,47,No Binario
+698,Bogotá,705494,44,Masculino
+699,Barranquilla,223155,66,No Binario
+700,Cartagena,691857,34,Masculino
+701,Pereira,980739,18,No Binario
+702,Pereira,323215,56,Femenino
+703,Santa Marta,578749,64,Femenino
+704,Medellín,113351,54,No Binario
+705,Medellín,748644,72,Masculino
+706,Manizales,366962,24,No Binario
+707,Medellín,107729,55,Femenino
+708,Pereira,88084,18,Femenino
+709,Cúcuta,87223,22,No Binario
+710,Santa Marta,559106,35,No Binario
+711,Santa Marta,407906,45,Femenino
+712,Cali,887644,31,Masculino
+713,Santa Marta,413279,21,Masculino
+714,Santa Marta,667990,41,Femenino
+715,Cali,327945,55,Femenino
+716,Cali,912159,35,Femenino
+717,Barranquilla,292512,27,Femenino
+718,Cúcuta,340187,71,No Binario
+719,Bucaramanga,628344,62,Femenino
+720,Cúcuta,80645,69,Femenino
+721,Pereira,531988,77,No Binario
+722,Santa Marta,691919,62,Masculino
+723,Cúcuta,107057,75,Masculino
+724,Manizales,219926,76,Masculino
+725,Bogotá,858636,33,Masculino
+726,Bucaramanga,467793,59,Masculino
+727,Manizales,455658,71,Masculino
+728,Pereira,663984,70,No Binario
+729,Bogotá,493736,58,Femenino
+730,Bogotá,804927,51,Masculino
+731,Cartagena,619980,55,Femenino
+732,Barranquilla,557303,23,Femenino
+733,Bogotá,985984,57,Femenino
+734,Cartagena,115343,73,Masculino
+735,Medellín,220813,28,No Binario
+736,Cartagena,196634,59,No Binario
+737,Cúcuta,995006,35,Masculino
+738,Cali,694229,18,Femenino
+739,Cúcuta,173770,25,Masculino
+740,Santa Marta,966724,52,Masculino
+741,Pereira,482943,79,Masculino
+742,Cartagena,339001,64,Femenino
+743,Cali,884015,76,Masculino
+744,Cúcuta,80109,59,Masculino
+745,Cúcuta,492473,60,Masculino
+746,Manizales,221909,24,No Binario
+747,Pereira,438959,48,Masculino
+748,Medellín,474243,51,Femenino
+749,Barranquilla,53755,74,Masculino
+750,Manizales,811355,56,Masculino
+751,Bucaramanga,470797,60,Femenino
+752,Cartagena,627791,70,Femenino
+753,Cartagena,870145,75,No Binario
+754,Santa Marta,944765,54,No Binario
+755,Cali,826609,78,Femenino
+756,Cali,294519,25,No Binario
+757,Barranquilla,267445,70,Femenino
+758,Cúcuta,856350,28,Femenino
+759,Bogotá,807896,70,No Binario
+760,Cali,536315,56,Femenino
+761,Barranquilla,697853,80,Femenino
+762,Manizales,88951,22,Masculino
+763,Santa Marta,447608,52,Masculino
+764,Barranquilla,58163,53,Masculino
+765,Barranquilla,433642,35,No Binario
+766,Bucaramanga,127201,18,Masculino
+767,Cali,835386,43,Femenino
+768,Pereira,334209,72,Masculino
+769,Bogotá,875250,34,No Binario
+770,Barranquilla,72630,56,Femenino
+771,Cali,79368,32,Masculino
+772,Cúcuta,991930,58,Femenino
+773,Pereira,549486,70,Masculino
+774,Cartagena,748190,28,Masculino
+775,Cali,771264,53,No Binario
+776,Cartagena,244061,78,No Binario
+777,Santa Marta,917202,71,No Binario
+778,Bogotá,545098,79,Masculino
+779,Pereira,58073,21,Masculino
+780,Cali,652486,51,No Binario
+781,Cali,724845,53,No Binario
+782,Santa Marta,968315,69,No Binario
+783,Bucaramanga,561296,56,No Binario
+784,Bogotá,759912,18,Masculino
+785,Bucaramanga,354600,28,Femenino
+786,Barranquilla,210571,54,Masculino
+787,Bucaramanga,686019,34,Femenino
+788,Medellín,464236,70,No Binario
+789,Bucaramanga,459065,67,No Binario
+790,Santa Marta,616153,46,Masculino
+791,Bogotá,676151,19,Femenino
+792,Cali,264297,76,Femenino
+793,Santa Marta,134749,37,Femenino
+794,Bucaramanga,284706,44,Masculino
+795,Bucaramanga,356308,35,Femenino
+796,Cúcuta,954972,42,Masculino
+797,Bucaramanga,276240,76,No Binario
+798,Cartagena,137540,19,No Binario
+799,Bogotá,197293,73,Masculino
+800,Pereira,907026,44,Masculino
+801,Bogotá,617048,75,No Binario
+802,Cali,361403,26,Femenino
+803,Pereira,857679,24,Femenino
+804,Medellín,966500,76,Femenino
+805,Manizales,710703,80,Femenino
+806,Manizales,259689,69,Femenino
+807,Medellín,181482,33,Femenino
+808,Medellín,743135,60,Femenino
+809,Pereira,622121,34,Femenino
+810,Manizales,262266,52,No Binario
+811,Santa Marta,731324,30,Masculino
+812,Cúcuta,83545,76,Femenino
+813,Cali,383747,70,No Binario
+814,Medellín,650711,24,Masculino
+815,Barranquilla,483747,56,Masculino
+816,Cartagena,191532,45,Femenino
+817,Manizales,764319,63,No Binario
+818,Bogotá,881820,31,No Binario
+819,Bucaramanga,675881,24,No Binario
+820,Cali,268558,20,No Binario
+821,Bucaramanga,677872,71,No Binario
+822,Barranquilla,940067,76,Femenino
+823,Bucaramanga,585807,24,No Binario
+824,Medellín,755216,21,No Binario
+825,Pereira,549657,48,No Binario
+826,Bogotá,787950,31,No Binario
+827,Cali,416726,34,Femenino
+828,Bucaramanga,939064,79,Femenino
+829,Bucaramanga,333651,80,Femenino
+830,Bogotá,355554,66,Femenino
+831,Bucaramanga,118723,66,Femenino
+832,Bogotá,552102,68,Masculino
+833,Santa Marta,996210,27,No Binario
+834,Manizales,618777,23,Femenino
+835,Bogotá,457208,53,No Binario
+836,Cúcuta,75719,45,No Binario
+837,Manizales,745728,76,Femenino
+838,Barranquilla,262448,74,No Binario
+839,Manizales,981991,44,Femenino
+840,Bucaramanga,313516,43,Masculino
+841,Barranquilla,376359,50,Femenino
+842,Manizales,304783,41,Masculino
+843,Bogotá,622877,30,No Binario
+844,Santa Marta,810900,27,No Binario
+845,Barranquilla,634415,43,Femenino
+846,Bogotá,847580,19,Masculino
+847,Santa Marta,155157,79,Femenino
+848,Cali,451408,55,Masculino
+849,Pereira,283479,25,Femenino
+850,Cali,261787,40,Masculino
+851,Bucaramanga,543037,71,Masculino
+852,Bucaramanga,883140,76,Femenino
+853,Cúcuta,169145,62,Masculino
+854,Santa Marta,164668,43,Masculino
+855,Cartagena,349630,80,Femenino
+856,Pereira,481650,61,Masculino
+857,Santa Marta,986694,59,Masculino
+858,Bucaramanga,620816,55,Masculino
+859,Manizales,85246,54,Masculino
+860,Cúcuta,557737,52,Masculino
+861,Bucaramanga,830863,69,Masculino
+862,Cali,690971,50,Masculino
+863,Bogotá,770539,21,No Binario
+864,Cali,444467,26,No Binario
+865,Santa Marta,768409,31,Masculino
+866,Manizales,733374,72,Masculino
+867,Barranquilla,274997,79,Masculino
+868,Bogotá,146141,53,Femenino
+869,Bucaramanga,662831,34,Femenino
+870,Medellín,684961,21,Femenino
+871,Cartagena,876691,31,No Binario
+872,Medellín,869009,58,Femenino
+873,Cali,288540,42,Femenino
+874,Pereira,681425,22,No Binario
+875,Cali,442294,35,Masculino
+876,Manizales,494338,25,Femenino
+877,Manizales,629708,45,Femenino
+878,Bogotá,571714,23,Masculino
+879,Barranquilla,933450,18,Masculino
+880,Manizales,763867,46,Masculino
+881,Cali,800693,52,No Binario
+882,Santa Marta,812144,75,No Binario
+883,Medellín,468188,57,No Binario
+884,Pereira,706034,52,Femenino
+885,Bucaramanga,778402,44,Masculino
+886,Bucaramanga,927825,60,Masculino
+887,Manizales,338636,76,Masculino
+888,Cúcuta,484020,43,Femenino
+889,Cali,738470,79,Femenino
+890,Bucaramanga,332117,41,Masculino
+891,Cúcuta,162196,69,No Binario
+892,Barranquilla,680074,34,Masculino
+893,Pereira,535405,54,Femenino
+894,Pereira,611371,47,Masculino
+895,Bogotá,391778,45,Masculino
+896,Bogotá,705608,45,Masculino
+897,Bogotá,475501,20,No Binario
+898,Medellín,559730,77,No Binario
+899,Manizales,496755,23,Masculino
+900,Manizales,845928,55,No Binario
+901,Santa Marta,90889,44,No Binario
+902,Cúcuta,256385,39,Femenino
+903,Cúcuta,619837,63,No Binario
+904,Santa Marta,998146,19,Masculino
+905,Pereira,676871,72,No Binario
+906,Bucaramanga,814547,38,Femenino
+907,Manizales,258631,49,Femenino
+908,Manizales,926349,59,Femenino
+909,Medellín,492061,49,Masculino
+910,Barranquilla,381588,49,Femenino
+911,Manizales,240477,70,Masculino
+912,Medellín,670559,41,Femenino
+913,Manizales,635121,51,No Binario
+914,Bucaramanga,611635,56,Masculino
+915,Santa Marta,460284,32,No Binario
+916,Barranquilla,317178,23,Femenino
+917,Bogotá,527807,79,No Binario
+918,Bogotá,590513,39,Masculino
+919,Cúcuta,429412,50,Masculino
+920,Cartagena,375024,41,Femenino
+921,Medellín,946906,21,No Binario
+922,Cartagena,750966,79,No Binario
+923,Cali,513385,62,No Binario
+924,Pereira,371494,35,Masculino
+925,Santa Marta,418780,67,No Binario
+926,Manizales,642337,54,Masculino
+927,Cartagena,413453,52,No Binario
+928,Manizales,839635,62,Femenino
+929,Bogotá,83761,51,No Binario
+930,Cartagena,289954,69,Masculino
+931,Bogotá,195279,20,No Binario
+932,Barranquilla,82404,57,No Binario
+933,Medellín,75991,43,No Binario
+934,Santa Marta,539000,64,Femenino
+935,Bucaramanga,389461,73,Masculino
+936,Manizales,400179,29,Femenino
+937,Santa Marta,278045,76,No Binario
+938,Cartagena,648657,61,Femenino
+939,Santa Marta,224348,54,Femenino
+940,Barranquilla,559105,30,Femenino
+941,Bogotá,478714,64,Femenino
+942,Santa Marta,453803,25,Masculino
+943,Cali,351842,78,Masculino
+944,Cartagena,408503,27,No Binario
+945,Cúcuta,304967,67,Femenino
+946,Cali,528175,35,Masculino
+947,Cartagena,317705,51,Femenino
+948,Cúcuta,568778,48,Masculino
+949,Bucaramanga,812378,42,Femenino
+950,Cali,147525,59,Femenino
+951,Pereira,53501,72,Femenino
+952,Barranquilla,468861,25,No Binario
+953,Barranquilla,235661,68,Femenino
+954,Bucaramanga,300242,54,No Binario
+955,Barranquilla,712525,65,Masculino
+956,Bucaramanga,949098,78,No Binario
+957,Medellín,988537,37,No Binario
+958,Bucaramanga,115798,67,No Binario
+959,Barranquilla,800475,63,No Binario
+960,Pereira,519854,35,Masculino
+961,Barranquilla,922479,70,Masculino
+962,Bogotá,342618,18,Masculino
+963,Barranquilla,166981,72,Masculino
+964,Cali,756050,38,Masculino
+965,Barranquilla,317177,22,No Binario
+966,Bogotá,475358,27,No Binario
+967,Pereira,107104,56,Masculino
+968,Manizales,83645,24,No Binario
+969,Bucaramanga,633632,48,Femenino
+970,Barranquilla,336812,26,No Binario
+971,Pereira,124861,28,Masculino
+972,Pereira,125237,53,Femenino
+973,Cali,539747,61,Masculino
+974,Medellín,541264,78,Masculino
+975,Barranquilla,936744,68,Femenino
+976,Cúcuta,599598,64,Femenino
+977,Bogotá,533598,60,No Binario
+978,Cali,676320,28,Femenino
+979,Bucaramanga,741384,46,Femenino
+980,Bogotá,607465,72,Femenino
+981,Barranquilla,72271,23,No Binario
+982,Bucaramanga,134418,72,No Binario
+983,Cali,783439,42,Masculino
+984,Manizales,459660,65,Masculino
+985,Barranquilla,248772,67,No Binario
+986,Cartagena,618183,71,Masculino
+987,Medellín,924949,50,Femenino
+988,Cartagena,459485,31,Masculino
+989,Pereira,976149,79,No Binario
+990,Pereira,851282,77,Masculino
+991,Medellín,168604,44,Masculino
+992,Cartagena,147703,38,Masculino
+993,Cúcuta,293601,29,Masculino
+994,Cartagena,803461,58,Masculino
+995,Manizales,673147,64,Masculino
+996,Bogotá,992916,80,Femenino
+997,Cartagena,591784,48,Masculino
+998,Cartagena,788107,61,No Binario
+999,Cúcuta,401462,61,Femenino
+1000,Bogotá,180589,58,Femenino
